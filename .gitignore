@@ -19,3 +19,5 @@ api/lerna-debug.log*
 api/coverage
 api/.nyc_output
 
+/api
+
