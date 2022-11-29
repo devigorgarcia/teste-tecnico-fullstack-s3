@@ -1,0 +1,23 @@
+api/node_modules
+
+# compiled output
+api/dist
+
+api/.env
+
+# Logs
+api/logs
+api/*.log
+api/npm-debug.log*
+api/pnpm-debug.log*
+api/yarn-debug.log*
+api/yarn-error.log*
+api/lerna-debug.log*
+
+
+# Tests
+api/coverage
+api/.nyc_output
+
+/api
+
